@@ -38,8 +38,8 @@
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>3.10.1</version>  <!-- Updated plugin version -->
                 <configuration>
-                    <source>17</source>
-                    <target>17</target>
+                    <source>11</source> <!-- Set to Java 11 -->
+                    <target>11</target> <!-- Set to Java 11 -->
                 </configuration>
             </plugin>
         </plugins>
